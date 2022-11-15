@@ -1,0 +1,11 @@
+{
+  "name": "MongoDB and Mongoose",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-MongoDB",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/",
+  "hosted": "https://enchanting-loud-munchkin.glitch.me/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["js", "node", "express", "mongodb", "mongoose"]
+}
