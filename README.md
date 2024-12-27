@@ -82,7 +82,7 @@ Create a `.env` file and add a `MONGO_URI='insert_variable_here'` variable to it
 > - Select the "Connect to you application > Drivers" tab
 > - This will provide more specific instructions for connecting to your database from your app, including the connection string.
 
-Lastly, rRun the command `npm run start` to start the server, then navigate to http://localhost:3000/ (when developing locally).
+Lastly, run the command `npm run start` to start the server, then navigate to http://localhost:3000/ (when developing locally).
 
 ## Author
 
