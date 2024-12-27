@@ -53,7 +53,7 @@ git clone https://github.com/cekstedt/FreeCodeCamp-NPM
 
 Navigate into the root project folder and install dependencies.
 ```
-cd FreeCodeCamp-NPM/
+cd FreeCodeCamp-MongoDB/
 npm install
 ```
 
